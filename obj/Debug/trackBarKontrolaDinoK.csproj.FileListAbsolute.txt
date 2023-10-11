@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\bin\Debug\trackBarKontrolaDinoK.exe.config
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\bin\Debug\trackBarKontrolaDinoK.exe
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\bin\Debug\trackBarKontrolaDinoK.pdb
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\obj\Debug\trackBarKontrolaDinoK.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\obj\Debug\trackBarKontrolaDinoK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\obj\Debug\trackBarKontrolaDinoK.Form1.resources
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\obj\Debug\trackBarKontrolaDinoK.Properties.Resources.resources
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\obj\Debug\trackBarKontrolaDinoK.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\obj\Debug\trackBarKontrolaDinoK.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\obj\Debug\trackBarKontrolaDinoK.exe
+C:\Users\ucenik\source\repos\trackBarKontrolaDinoK\obj\Debug\trackBarKontrolaDinoK.pdb
